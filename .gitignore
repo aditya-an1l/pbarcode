@@ -1,3 +1,7 @@
+# Project Related
+plan.md
+sessions/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
