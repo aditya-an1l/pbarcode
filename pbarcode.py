@@ -25,7 +25,7 @@ if __name__ == "__main__":
     if number not in ("q", "quit", "exit"):
         file = get_barcode(number)
     else:
-        print("Exiting ...")
+        print("Exiting now ...")
         sys.exit(0)
 
     Image.open(f"{file}.png").show()
