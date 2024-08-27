@@ -1,7 +1,6 @@
 import sys
 from barcode.writer import ImageWriter
 import barcode
-import rich
 from rich import print
 import datetime
 from PIL import Image
